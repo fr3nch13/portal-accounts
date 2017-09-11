@@ -1,5 +1,5 @@
 {
-	"name": "nih-fo/portal-accounts",
+	"name": "fr3nch13/portal-accounts",
 	"description": "Portal: Accounts",
 	"type": "project",
 	"keywords": ["project", "application", "accounts"],
@@ -17,9 +17,9 @@
 	"minimum-stability" : "dev",
 	"prefer-stable" : true,
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
-		"nih-fo/plugin-oauthserver": "1.*",
-		"nih-fo/plugin-contacts": "1.*"
+		"fr3nch13/plugin-utilities": "1.*",
+		"fr3nch13/plugin-oauthserver": "1.*",
+		"fr3nch13/plugin-contacts": "1.*"
 	}, 
 	"config": {
 		"vendor-dir": "Vendor/",
